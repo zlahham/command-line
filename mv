@@ -1,0 +1,4 @@
+The command "mv" can be used in 3 ways:
+- To rename a file in the same directory, ex: $ mv abc.file abc1.file
+- To move a file, ex: $ mv abc.file ../abc.file
+- To move and rename a file. ex: $ mv abc.file ../abc2.file
